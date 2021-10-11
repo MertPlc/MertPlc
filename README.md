@@ -1,11 +1,5 @@
 # Hi, I'm Mert PALACIOĞLU 👋
 
-<!-- ![](https://raw.githubusercontent.com/asimkilic/asimkilic/main/pictures/Knowledge-is-power.jpg) -->
-<!-- profil/repo -->
-
-I graduated in CIS. My mottos are "Whatever you do, do it with code" and "Lead the world with code".
-My goal and dream is to be a successful Full Stack Developer. I am currently training for this. However, I continue to practice and improve myself.
-
 ## Tech | Tools | Stats
 
 <p align='left'>
